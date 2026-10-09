@@ -1,0 +1,4 @@
+echo hola;0;80
+type fichero_inexistente_psp_12345.txt;1;56
+orden_inexistente_psp_12345;1;60
+ping -n 11 127.0.0.1;-1;5082
